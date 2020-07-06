@@ -10,13 +10,13 @@ Open PowerShell
 
 Install Deno
 ```
-> scoop install deno
+scoop install deno
 ```
 
 Try running a simple program:
 
 ```
-> deno run https://deno.land/std/examples/welcome.ts
+deno run https://deno.land/std/examples/welcome.ts
 ```
 
 Or a more complex one:
