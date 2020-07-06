@@ -8,7 +8,7 @@
 \system32> iwr -useb get.scoop.sh | iex
 ```
 
-Install Deno
+- Install Deno
 ```
 > scoop install deno
 ```
