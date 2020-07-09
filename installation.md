@@ -17,6 +17,7 @@ Try running a simple program:
 
 ```
 deno run https://deno.land/std/examples/welcome.ts
+# you can check other examples at https://deno.land/std
 ```
 
 Or a more complex one:
