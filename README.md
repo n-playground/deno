@@ -7,3 +7,7 @@ Deno is a simple, modern and secure runtime for JavaScript and TypeScript that u
 - Ships only a single executable file.
 - Has built-in utilities like a dependency inspector (deno info) and a code formatter (deno fmt).
 - Has a set of reviewed (audited) standard modules that are guaranteed to work with Deno: deno.land/std
+
+### Example
+
+[https://deno.land/std/examples/](https://deno.land/std/examples/)
